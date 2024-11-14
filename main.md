@@ -47,17 +47,17 @@ Die begrenzte Verfügbarkeit von Quellen, bestehende Geschlechterstereotype, Vor
 |--------|---------------------------------------------------|
 | 24.10. | Begrüßung, Organisatorisches, Erwartungen, Fragen |           
 | 31.10. | **FEIERTAG - KEIN SEMINAR**                        | 
-| 07.11. | Inhaltliche Einführung in den Themenbereich "Frauen- und Geschlechtergeschichte" | 
-| 14.11. | **Planen:** Diskussion von potenziellen Forschungsthemen |
-| 21.11. | **Sammeln:** Einführung in verschiedene Quellenarten zur Erforschung von Frauenbiographien / Transkribus /  Archivinformationssystem Arcinsys |
-| 28.11. | **Speichern:** Besuch im Landesarchiv (mit dem Leiter des Universitätarchivs Dr. Jörg Rathjen) |
-| 05.12. | **Auswerten:** Gemeinsame Arbeitssitzung / Analyse der gesammelten Quellen |
-| 12.12. | **Beschreiben:** Metadatenstandards: Welche gibt es und ihr Sinn und Zweck |
-| 19.12. | **Archivieren:** Anwendung von Metadatenstandards auf Forschungsergebnisse |
-| 09.01. | **Teilen:** Entwicklung von Forschungsfragen / Beispiele für Online-Präsentationen / Präsentation der Quellen |
-| 16.01. | **Teilen:** Omeka S und "How to" zur Präsentation der Quellen  |
-| 23.01. | **Auswerten** und **Beschreiben:** gemeinsame Arbeitssitzung / Recherche / Feedback und Beratung zur Weiterentwicklung der Forschungsprojekte |
-| 30.01. | tba |
+| 07.11. | *wg. Krankheit ausgefallen* | 
+| 14.11. | Inhaltliche Einführung in den Themenbereich "Frauen- und Geschlechtergeschichte"; **Planen:** Diskussion von potenziellen Forschungsthemen |
+| 21.11. | (Selbststudium) **Sammeln:** Einführung in verschiedene Quellenarten zur Erforschung von Frauenbiographien / Transkribus /  Archivinformationssystem Arcinsys |
+| 28.11. | Planung und Sammeln cont'd: Nachbesprechung und -aufbereitung der Selbstlernergebnisse |
+| 05.12. | **Speichern:** Besuch im Landesarchiv (mit dem Leiter des Universitätarchivs Dr. Jörg Rathjen) |
+| 12.12. | (Doppelsitzung) **Auswerten:** Gemeinsame Arbeitssitzung / Analyse der gesammelten Quellen und **Beschreiben:** Metadatenstandards: Welche gibt es und ihr Sinn und Zweck |
+| 19.12. | (Selbststudium) |
+| 09.01. | (Doppelsitzung) **Archivieren:** Anwendung von Metadatenstandards auf Forschungsergebnisse und **Teilen:** Entwicklung von Forschungsfragen / Beispiele für Online-Präsentationen / Präsentation der Quellen |
+| 16.01. | (Selbststudium)  |
+| 23.01. | (Doppelsitzung) **Teilen:** Omeka S und "How to" zur Präsentation der Quellen, **Auswerten** und **Beschreiben:** gemeinsame Arbeitssitzung / Recherche / Feedback und Beratung zur Weiterentwicklung der Forschungsprojekte |
+| 30.01. | Arbeitssitzung: offen für Rückfragen, Hilfestellungen etc. |
 | 06.02. | Präsentation der (Zwischen-)Ergebnisse, Evaluation |
 
 ### Forschungs(daten)zyklus
@@ -102,4 +102,52 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 * (und darauf aufbauend:) [Sylvia Schraut: Mädchen- und Frauenbildung, Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/themen/maedchen-und-frauenbildung)
 * Ute Gerhard, Frauenbewegung, S. 188-217 (im Olat-Ordner).
 
-## Sitzung am 07.11.2024
+## Sitzung am 07.11.2024 
+(wegen Krankheit entfallen)
+
+## Sitzung am 14.11.2024
+
+### Gruppenarbeit Mind-Map
+
+1. Bitte notieren Sie die zentralen Themen, Ereignisse und Theorien aus dem Text von Ute Gerhard zur "Frauenbewegung" und Kirsten Heinsohn, Claudia Kemper zur "Geschlechtergeschichte", die Sie als wichtig erachten. Dabei sollten Sie die grundlegenden Begriffe "Frauenbewegung" sowie "Frauen- und Geschlechtergeschichte" zusammenführen als auch voneinander abgrenzen.
+
+2. Reflektieren Sie in der Gruppe die gelesenen Texte unter der Leitfragen:
+
+    * Inwiefern gibt es in den Texten Ansatzpunkte für heutige Diskurse zur Geschlechtergeschichte, bspw. im digitalen Raum?
+    * Inwiefern tragen digitale Plattformen (z.B. Wikipedia, soziale Medien) dazu bei, dass Frauengeschichte sichtbarer wird?
+    * Wie beeinflusst der digitale Raum den heutigen Diskurs über Frauen- und Geschlechtergeschichte?
+
+3. Die Gruppe präsentiert ihre Mind-Map und erläutert kurz die erarbeiteten Ergebnisse.
+
+### Aktuelle Debatten um Stereotypen
+
+> Sind  Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+
+{{1}}
+
+> *Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:*
+
+{{2}}
+![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+
+{{3}}
+
+---
+
+![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
+
+Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>
+
+---
+
+### Inkshedding: Themenfindung
+
+1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst leserlich! Sie haben 10 Minuten Zeit.
+
+> Das/die Thema/Schicksal/Biographie(n) ... im Bereich der Frauen- und Geschlechtergeschichte des 20. Jahrhunderts (in Schleswig-Holstein) interessiert/en mich, weil ... 
+
+2. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 bis 10 Minuten zur Verfügung.
+3. Wir wiederholen 2. ein zweites Mal.
+
+### Aufgabe zur nächsten Woche
+
