@@ -151,3 +151,15 @@ Quelle: <https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200>
 
 ### Aufgabe zur nächsten Woche
 
+1. Bearbeiten Sie den ersten Schritt (nur diesen!) der Aufgabe "Inkshedding: Themenfindung".
+2. Beschäftigen Sie sich mit Arcinsys:
+
+    * Schauen Sie sich den Selbstlernkurs zu dem Thema an: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/arcinsys-workflow/refs/heads/main/Arcinsys_Workflow.md#1
+    * Suchen Sie zwei bis drei Akten zum Thema des Seminars im Landesarchiv SH heraus. Wie sind Sie bei der Suche vorgegangen? Worum geht es in den Akten?
+    * Hat Ihnen der Selbstlernkurs bei der Einarbeitung ins Thema geholfen? Was war gut, was weniger gut? Welche Informationen haben Ihnen gefehlt?
+
+3. Beschäftigen Sie sich mit Transkribus:
+
+    * Schauen Sie sich den Selbstlernkurs zu dem Thema an: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/transkribus-workflow/refs/heads/main/Transkribus_Workflow.md#1
+    * Erstellen Sie einen Account und lassen Sie Dokumente automatisch transkribieren. Verwenden Sie dazu entweder eine eigene, selbstgewählte Quelle oder das Dokument im OLAT, das wir Ihnen dazu zur Verfügung stellen. 
+    * Auch hier die Frage(n): Hat Ihnen der Selbstlernkurs bei der Einarbeitung ins Thema geholfen? Was war gut, was weniger gut? Welche Informationen haben Ihnen gefehlt?
