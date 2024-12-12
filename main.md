@@ -294,7 +294,13 @@ Besuch im Landes- und Universitätarchiv Schleswig-Holstein.
 * Die Transkription erfolgt quellennah, Eingriffe sollten soweit möglich vermieden werden. 
 * Leerzeichen bleiben erhalten, wie sie in der Quelle erkennbar sind.
 * Eingriffe in den Text (bspw. weil etwas nicht lesbar, unverständlich oder ergänzt worden ist) werden (zunächst!) durch eckige Klammern "[", "]" kenntlich gemacht. 
+* Für Formulare: Die vom Formular vorgegebenen Informationen werden nicht ausgezeichnet, die individuellen (veränderlichen Informationen) werden in spitze öffnende und schließende Klammern gesetzt, also bspw.:
 
+> Name, Vorname 
+> 
+> \>\> Mustermann, Max \<\<
+
+* Stempel werden transkribiert, wenn sie relevante Informationen beinhalten.
 
 ### Aufgaben zur nächsten Sitzung
 
